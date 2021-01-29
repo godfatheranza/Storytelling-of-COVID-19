@@ -1,4 +1,4 @@
-# Storytelling of COVID-19
+# Data Storytelling of COVID-19
 
 # Data Storytelling On How COVID Started and Why USA Is Most Affected Country By Covid-19 Using Tableau Desktop
 In this Data Story telling we have used Covid-19 intial data set from the begining of Covid-19 till April 2020. To find the reansons that why the USA is most affected Countey by Covid-19 across the world. With the help of Tableau Desktop where I have created different types of charts, dashboards and data story which show the reasons that why USA is more affected than all other countries. My main aim was exploring Tableau Desktop storytelling, visualization and dashboard funcationality through this small data storytelling project on Covid-19 Dataset. Details about dataset and descriptions you can find below.
